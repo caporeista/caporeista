@@ -1,5 +1,5 @@
 # Hi There 👋
 
-My name is Emrullah KAÇKAR, I'm a All in One Developer (Full Stack). I
-My current focus is about open source development and I'm looking forward to
-contribute more.
+My name is Emrullah KAÇKAR
+I have been working as a full stack developer since 2007.
+I am an open source developer
