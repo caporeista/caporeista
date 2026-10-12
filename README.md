@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Emrullah KAÇKAR I have been working as a full stack developer since 2007. I am an open source developer
+My name is Emrullah KAÇKAR I have been working as a full stack developer & AI LLM Architect since 2007. I am an open source developer
 
 
 ## 🌐 Socials:
